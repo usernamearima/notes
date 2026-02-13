@@ -113,9 +113,9 @@ If the server does not verify ownership:
 users may access other users' data
 
 This is a common source of access control issues.
-
---- 
 ```
+--- 
+
 ## 6. Testing Access Control (Conceptual, Legal)
 
 Access control testing focuses on logic, not exploitation.
