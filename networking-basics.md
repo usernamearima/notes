@@ -183,7 +183,7 @@ check if a host is alive
 
 ---
 
-9. Traceroute
+## 9. Traceroute
 
 Traceroute shows the path packets take to reach a destination.
 
@@ -201,7 +201,7 @@ debug network issues
 
 ---
 
-10. DNS – Domain Name System
+## 10. DNS – Domain Name System
 
 DNS translates domain names into IP addresses.
 
@@ -213,7 +213,7 @@ Domain name → DNS → IP address → connection
 
 ---
 
-11. DNS Tools
+## 11. DNS Tools
 
 nslookup
 Basic DNS lookup tool.
