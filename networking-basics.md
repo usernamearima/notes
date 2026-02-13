@@ -157,7 +157,7 @@ troubleshooting connectivity
 ```
 ---
 
-8. Ping
+## 8. Ping
 
 Ping checks connectivity between two computers.
 
