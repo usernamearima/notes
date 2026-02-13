@@ -154,7 +154,7 @@ wlan0 – wireless connection
 Used for:
 checking network configuration
 troubleshooting connectivity
-
+```
 ---
 
 8. Ping
