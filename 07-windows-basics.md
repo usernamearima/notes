@@ -90,7 +90,7 @@ Key features:
 Paths use backslashes:
 ```text
 C:\Users\Username
-
+```
 ---
 
 ## 7. NTFS Permissions (Basic)
