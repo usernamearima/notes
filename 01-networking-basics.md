@@ -140,7 +140,7 @@ A computer must have an IP address to use a network.
 Command:
 ```bash
 ip a
-
+```
 This command shows:
 network interfaces
 assigned IP addresses
